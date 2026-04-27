@@ -24,7 +24,7 @@ function square(v1) {
 }
 
 console.log(sum(10, 5));
-console.log(sub(10, 5));git 
+console.log(sub(10, 5));
 console.log(div(10, 5));
 console.log(mult(10, 5));
 console.log(square(25));
